@@ -1,4 +1,23 @@
-### Hi there 👋
+## Environment 👨🏻‍💻
+
+- Running GNU/Linux.
+> Currently: Arch Linux on my main machine, and Ubuntu on the secondary.
+
+- Programming in C, C++, and Python.
+> Currently: working on a set of minimal programs to replace essential, but bloated, programs on my devices.
+
+- Coding in Lua, Make, and Python.
+> Mainly for building and compiling reasonably-sized projects.
+
+- TensorFlow and Sci-kit Learn.
+> I love AI! Roaming around the world of Machine and Deep Learning, and the dungeons of Classical Symbolic AI.
+
+- SQL.
+> Privacy-respecting Data Science.
+
+## Philosophy 📓
+Quality software is minimal software.
+
 
 <!--
 **alrshdn/alrshdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
