@@ -6,8 +6,8 @@
 - Programming in C, C++, and Python.
 > Currently: working on a set of minimal programs to replace essential, but bloated, programs on my devices.
 
-- Coding in Lua, Make, and Python.
-> Mainly for building and compiling reasonably-sized projects.
+- Coding in Lua (for premake), Make, and Python.
+> Mainly for creating build systems for compiling reasonably-sized projects.
 
 - TensorFlow and Sci-kit Learn.
 > I love AI! Roaming around the world of Machine and Deep Learning, and the dungeons of Classical Symbolic AI.
