@@ -12,6 +12,9 @@
 - TensorFlow and Sci-kit Learn.
 > I love AI! Roaming around the world of Machine and Deep Learning, and the dungeons of Classical Symbolic AI.
 
+- Scientific Python Coding & Computing with NumPy, Pandas, SciPy, Matplotlib, and Seaborn.
+> Mastering data manipulation and preparation techniques for AI and Data Science applications.
+
 - SQL.
 > Privacy-respecting Data Science.
 
