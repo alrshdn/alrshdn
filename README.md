@@ -1,9 +1,9 @@
 ## Environment 👨🏻‍💻
 
 - Running GNU/Linux.
-> Currently: Arch Linux on my main machine, Ubuntu on the secondary, and Debian as a server.
+> Currently: Debian on my main machine, Arch Linux on the secondary, and Debian as a server.
 
-- Programming in C, C++, and Python.
+- Programming in C, and Python.
 > Currently: working on a set of minimal programs to replace essential, but bloated, programs on my devices.
 
 - Coding in Lua (for premake), Make, and Python.
