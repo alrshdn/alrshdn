@@ -1,3 +1,4 @@
+<!--
 ## Environment 👨🏻‍💻
 
 - Running GNU/Linux.
@@ -17,7 +18,7 @@
 
 - SQL.
 > Privacy-respecting Data Science.
-
+-->
 ## Philosophy 📓
 Quality software is minimal software.
 
